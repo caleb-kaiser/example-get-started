@@ -1,5 +1,3 @@
 
-['remote "storage"']
-url = s3://cortex-examples/dvc
-[core]
-remote = storage
+['remote "aws"']
+url = s3://cortex-test-project/DVC

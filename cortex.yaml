@@ -6,6 +6,6 @@
   predictor:
     path: predictor.py
     metadata:
-      dvc_repo: "https://github.com/cortexlabs/example-get-started"
+      dvc_repo: "https://github.com/calebkaiser/example-get-started"
       model_path: "model.pkl"
       pipeline_path: "pipeline.pkl"
